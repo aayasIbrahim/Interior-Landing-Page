@@ -2,6 +2,7 @@ import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero"
 import DreamSpaceSection from "@/components/DreamSpaceSection";
 import AmazingProjectsSection from "@/components/AmazingProjectsSection";
+import Footer from "@/components/Footer";
 
 
 export default function Home() {
@@ -11,6 +12,7 @@ export default function Home() {
     <Hero/>
     <DreamSpaceSection/>
     <AmazingProjectsSection/>
+    <Footer/>
     </>
   );
 }

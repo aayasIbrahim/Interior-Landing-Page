@@ -4,14 +4,17 @@ import React from "react";
 import Image from "next/image";
 import { ArrowRight } from "lucide-react";
 import { motion } from "framer-motion";
+import { Variants } from "framer-motion";
 
 // Reusable animation variants
-const fadeUp = {
+
+
+const fadeUp: Variants = {
   hidden: { opacity: 0, y: 50 },
-  visible: (i = 1) => ({
+  visible: (custom: number = 1) => ({
     opacity: 1,
     y: 0,
-    transition: { delay: i * 0.2, duration: 0.8, ease: "easeOut" },
+    transition: { delay: custom * 0.2, duration: 0.8, ease: "easeOut" },
   }),
 };
 

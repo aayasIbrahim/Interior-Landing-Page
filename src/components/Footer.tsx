@@ -1,4 +1,4 @@
-// components/AppFooter.tsx
+
 "use client";
 import React from "react";
 

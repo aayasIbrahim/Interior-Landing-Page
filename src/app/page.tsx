@@ -4,6 +4,7 @@ import DreamSpaceSection from "@/components/DreamSpaceSection";
 import AmazingProjectsSection from "@/components/AmazingProjectsSection";
 import Footer from "@/components/Footer";
 import TestimonialsSection from "@/components/TestimonialsSection";
+import UniqueDesignsSection from "@/components/UniqueDesignsSection";
 
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
     <Hero/>
     <DreamSpaceSection/>
     <AmazingProjectsSection/>
+    <UniqueDesignsSection/>
     <TestimonialsSection/>
     <Footer/>
     </>

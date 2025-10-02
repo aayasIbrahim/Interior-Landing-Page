@@ -224,7 +224,7 @@ const Hero = () => {
                 className=" flex justify-center items-center "
               >
                <a href="" className="bg-[#28887A] font-medium rounded-md shadow-lg hover:bg-[#34495e] transition duration-300 text-white px-[35px] py-[16px] font-['Visby_CF'] font-semibold text-[15px] leading-[20px] tracking-[0] text-center">
-                     Let talk
+               Let&apos;s Talk
                </a>
               </motion.div>
             </form>

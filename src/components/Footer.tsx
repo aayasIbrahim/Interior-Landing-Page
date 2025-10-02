@@ -41,11 +41,11 @@ const Footer: React.FC = () => {
     },
     {
       title: "Design",
-      links: ["2D Designer", "3D Designer", "Collabration", "Tools", "Important Link"],
+      links: ["2D Designer", "3D Designer", "Collaboration", "Tools", "Important Link"],
     },
     {
       title: "Links",
-      links: ["Projects", "Contact", "Send Email", "Fiveer", "upWork"],
+      links: ["Projects", "Contact", "Send Email", "Fiverr", "UpWork"],
     },
     {
       title: "Material",

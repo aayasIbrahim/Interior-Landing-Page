@@ -76,7 +76,7 @@ const Footer: React.FC = () => {
 
         {/* Bottom Bar */}
         <div className="pt-8 pb-8 border-t border-gray-200 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <p>&copy; Copyright 2021 Interiorfirm — All Rights Reserved.</p>
+          <p>&copy; Copyright 2025 Coursefiction — All Rights Reserved.</p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="hover:text-gray-900 transition-colors">
               Privacy Policy

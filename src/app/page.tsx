@@ -5,7 +5,8 @@ import AmazingProjectsSection from "@/components/AmazingProjectsSection";
 import Footer from "@/components/Footer";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import CallToAction from "@/components/CallToAction";
-// import UniqueDesignsSection from "@/components/UniqueDesignsSection";
+import UniqueDesignsSection from "@/components/UniqueDesignsSection";
+import DesignIntroSection from "@/components/DesingIntroSection";
 
 
 export default function Home() {
@@ -14,8 +15,9 @@ export default function Home() {
     <Navbar/>
     <Hero/>
     <DreamSpaceSection/>
+    <DesignIntroSection/>
     <AmazingProjectsSection/>
-    {/* <UniqueDesignsSection/> */}
+    <UniqueDesignsSection/>
     <TestimonialsSection/>
     <CallToAction/>
     <Footer/>
